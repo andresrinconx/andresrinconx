@@ -1,11 +1,11 @@
-# <div style="text-align: center; font-size: 4vh; font-weight: 600" align="center">Hi, I’m Andres Rincon 👋</div>
+# <div style="text-align: center; font-size: 4vh; font-weight: 600" align="center">Hello, I’m Andres Rincon 👋</div>
 ### Full-stack dev, web and mobile developer
 
 <img src="src/banner-github.jpg" style="width: 100%; max-height: 300px !important; object-fit: cover; height: 300px !important;" >
 
 I'm a full-stack developer who has been creating websites and mobile apps since 2021.
 
-## Tecnologies:
+# Tecnologies:
 
 
 ## Languages
@@ -34,7 +34,7 @@ I'm a full-stack developer who has been creating websites and mobile apps since 
 
 
 ## Backend
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en){:target="_blank"}
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/fr/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongo)](https://www.mongodb.com/)
