@@ -23,7 +23,8 @@
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 [![Next](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
-<a href="https://eslint.org/" title="MariaDB"><img src="src/eslint.svg" style="width: 48px;"/></a>
+<a href="https://eslint.org/" title="ESLint"><img src="src/eslint.svg" style="width: 48px;"/></a>
+<a href="https://mariadb.org/" title="MariaDB"><img src="src/mariadb.svg" style="width: 48px;"/></a>
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
