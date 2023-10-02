@@ -29,7 +29,6 @@ I've created dozens of applications and websites, with modern technologies such 
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
-
 ## Mobile
 [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
