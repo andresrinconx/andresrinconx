@@ -1,9 +1,3 @@
-<style>
-  h4 {
-    color: white; /* Cambia el color del texto a blanco */
-  }
-</style>
-
 # <div style="text-align: center; font-size: 4vh; font-weight: 600" align="center">Hello, I’m Andres Rincon 👋</div>
 ### Full-stack dev, web and mobile developer
 
