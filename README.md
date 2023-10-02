@@ -43,15 +43,15 @@ I've created dozens of applications and websites, with modern technologies such 
 
 ## Environment
 [![GNU/Linux (Tux!)](https://skillicons.dev/icons?i=linux)](https://www.gnu.org/gnu/linux-and-gnu.html)
-<a href="https://www.opensuse.org/" title="OpenSUSE"><img src="src/opensuse.svg" style="width: 48px;"/></a>
+<a href="https://www.opensuse.org/" title="OpenSUSE"><img src="src/opensuse.png" style="width: 48px;"/></a>
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-<a href="https://www.gitkraken.com/" title="GitKraken"><img src="src/gitkraken.svg" style="width: 48px;"/></a>
+<a href="https://www.gitkraken.com/" title="GitKraken"><img src="src/gitkraken.png" style="width: 48px;"/></a>
 
 
 ## API's
-firebase
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 openai
 stripe
 paypal
