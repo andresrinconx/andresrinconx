@@ -3,7 +3,7 @@
 
 <img src="src/banner-github.jpg" style="width: 100%; max-height: 300px !important; object-fit: cover; height: 300px !important;" >
 
-<h6>I'm a full-stack developer who has been creating websites and mobile apps since 2021.</h6>
+<h6>I'm a full-stack developer who has been creating websites and mobile apps since 2022.</h6>
 
 # Tecnologies:
 
@@ -24,7 +24,7 @@
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 [![Next](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
 <a href='https://eslint.org/'>
-  <img width='48px' src='https://vectorseek.com/wp-content/uploads/2023/04/Eslint-Logo-Vector.jpg' alt='ESLint' />
+  <img width='48px' style="border-radius: 50%;" src='https://vectorseek.com/wp-content/uploads/2023/04/Eslint-Logo-Vector.jpg' alt='ESLint' />
 </a>
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
