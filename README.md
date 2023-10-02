@@ -5,6 +5,8 @@
 
 I'm a full-stack developer who has been creating websites and mobile apps since 2022.
 
+He creado decenas de aplicaciones y sitios webs, con tecnologias modernas como react, next, react native, tailwind, node, express, mongodb, MySQL y una gran variedad de API's.
+
 # Tecnologies:
 
 
