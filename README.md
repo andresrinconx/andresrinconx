@@ -25,7 +25,7 @@ I've created dozens of applications and websites, with modern technologies such 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 [![Next](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
-<img src="src/eslint.svg"/>
+<a href="https://eslint.org/" title="ESLint"><img src="src/eslint.png" style="width: 48px;"/></a>
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
