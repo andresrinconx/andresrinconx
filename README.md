@@ -24,7 +24,7 @@
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 [![Next](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
 <a href='https://eslint.org/'>
-  <img width='48px' src='src/eslint.png' alt='ESLint' />
+  <img width='48px' src='src/eslint.svg' alt='ESLint' />
 </a>
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
