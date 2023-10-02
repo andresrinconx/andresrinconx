@@ -54,7 +54,7 @@ I've created dozens of applications and websites, with modern technologies such 
 ## API's
 <a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" style="width: 48px;"></a>
 <a href="https://openai.com/" title="OpenAI"><img src="src/openai.png" style="width: 48px;"></a>
-<a href="https://stripe.com/" title="Stripe"><img src="src/stripe.png" style="width: 48px;"></a>
+<a href="https://stripe.com/" title="Stripe"><img src="src/stripe.webp" style="width: 48px;"></a>
 <a href="https://paypal.com/" title="PayPal"><img src="src/paypal.png" style="width: 48px;"></a>
 
 
