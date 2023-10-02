@@ -3,7 +3,7 @@
 
 <img src="src/banner-github.jpg" style="width: 100%; max-height: 300px !important; object-fit: cover; height: 300px !important;" >
 
-<h4 style="color: #ffffff">I'm a full-stack developer who has been creating websites and mobile apps since 2022.</h4>
+I'm a full-stack developer who has been creating websites and mobile apps since 2022.
 
 # Tecnologies:
 
