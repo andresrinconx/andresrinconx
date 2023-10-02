@@ -24,7 +24,7 @@
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 [![Next](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
 <a href='https://eslint.org/'>
-  <img width='48px' style="border-radius: 50%;" src='https://vectorseek.com/wp-content/uploads/2023/04/Eslint-Logo-Vector.jpg' alt='ESLint' />
+  <img width='48px' class="imagen-redonda" src='https://vectorseek.com/wp-content/uploads/2023/04/Eslint-Logo-Vector.jpg' alt='ESLint' />
 </a>
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
@@ -61,3 +61,9 @@ paypal
 ## Other
 notion
 make
+
+<style>
+  .imagen-redonda {
+    border-radius: 50%;
+  }
+</style>
