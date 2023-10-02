@@ -3,7 +3,7 @@
 
 <img src="src/banner-github.jpg" style="width: 100%; max-height: 300px !important; object-fit: cover; height: 300px !important;" >
 
-I'm a full-stack developer who has been creating websites and mobile apps since 2021.
+<h6>I'm a full-stack developer who has been creating websites and mobile apps since 2021.</h6>
 
 # Tecnologies:
 
@@ -23,7 +23,7 @@ I'm a full-stack developer who has been creating websites and mobile apps since 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 [![Next](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
-<a href="https://eslint.org/" title="ESLint"><img src="src/eslint.png" style="width: 48px;"/></a>
+<a href="https://eslint.org/" title="ESLint"><img src="src/eslint.svg" style="width: 48px;"/></a>
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
@@ -34,7 +34,7 @@ I'm a full-stack developer who has been creating websites and mobile apps since 
 
 
 ## Backend
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en){:target="_blank"}
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/fr/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongo)](https://www.mongodb.com/)
@@ -42,11 +42,11 @@ I'm a full-stack developer who has been creating websites and mobile apps since 
 
 ## Environment
 [![GNU/Linux (Tux!)](https://skillicons.dev/icons?i=linux)](https://www.gnu.org/gnu/linux-and-gnu.html)
-<a href="https://www.opensuse.org/" title="OpenSUSE"><img src="src/opensuse.png" style="width: 48px;"/></a>
+<a href="https://www.opensuse.org/" title="OpenSUSE"><img src="src/opensuse.svg" style="width: 48px;"/></a>
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-<a href="https://www.gitkraken.com/" title="GitKraken"><img src="src/gitkraken.png" style="width: 48px;"/></a>
+<a href="https://www.gitkraken.com/" title="GitKraken"><img src="src/gitkraken.svg" style="width: 48px;"/></a>
 
 
 ## API's
