@@ -11,43 +11,43 @@ I've created dozens of applications and websites, with modern technologies such 
 
 
 ## Languages
-<a href="https://developer.mozilla.org/en/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" style="width: 48px;"/></a>
-[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
-[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+<a href="https://developer.mozilla.org/en/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" style="width: 48px;"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" style="width: 48px;"></a>
+<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" style="width: 48px;"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" style="width: 48px;"></a>
 
 
 ## Frontend
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
-[![Next](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
-<a href="https://eslint.org/" title="ESLint"><img src="src/eslint.png" style="width: 48px;"/></a>
-[![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" style="width: 48px;"></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" style="width: 48px;"></a>
+<a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" style="width: 48px;"></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" style="width: 48px;"></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" style="width: 48px;"></a>
+<a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" style="width: 48px;"></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=next" style="width: 48px;"></a>
+<a href="https://eslint.org/" title="ESLint"><img src="src/eslint.png" style="width: 48px;"></a>
+<a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" style="width: 48px;"></a>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" style="width: 48px;"></a>
 
 ## Mobile
-[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
-[![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
+<a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" style="width: 48px;"></a>
+<a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" style="width: 48px;"></a>
 
 
 ## Backend
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/fr/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![MongoDB](https://skillicons.dev/icons?i=mongo)](https://www.mongodb.com/)
+<a href="https://nodejs.org/en" title="NodeJS"><img src="https://skillicons.dev/icons?i=nodejs" style="width: 48px;"></a>
+<a href="https://expressjs.com/fr/"><img src="https://skillicons.dev/icons?i=express" style="width: 48px;"></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" style="width: 48px;"></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongo" style="width: 48px;"></a>
 
 
 ## Environment
-[![GNU/Linux (Tux!)](https://skillicons.dev/icons?i=linux)](https://www.gnu.org/gnu/linux-and-gnu.html)
-<a href="https://www.opensuse.org/" title="OpenSUSE"><img src="src/opensuse.png" style="width: 48px;"/></a>
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-<a href="https://www.gitkraken.com/" title="GitKraken"><img src="src/gitkraken.png" style="width: 48px;"/></a>
+<a href="https://www.gnu.org/gnu/linux-and-gnu.html" title="GNU/Linux (Tux!)"><img src="https://skillicons.dev/icons?i=linux" style="width: 48px;"></a>
+<a href="https://www.opensuse.org/" title="OpenSUSE"><img src="src/opensuse.png" style="width: 48px;"></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" style="width: 48px;"></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" style="width: 48px;"></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" style="width: 48px;"></a>
+<a href="https://www.gitkraken.com/" title="GitKraken"><img src="src/gitkraken.png" style="width: 48px;"></a>
 
 
 ## API's
