@@ -11,7 +11,7 @@ I've created dozens of applications and websites, with modern technologies such 
 
 
 ## Languages
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en/docs/Web/JavaScript)
+<a href="https://developer.mozilla.org/en/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" style="width: 48px;"/></a>
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
