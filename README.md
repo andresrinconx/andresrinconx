@@ -43,7 +43,7 @@ I've created dozens of applications and websites, with modern technologies such 
 
 
 ## Environment
-<a href="https://www.gnu.org/gnu/linux-and-gnu.html" title="GNU/Linux (Tux!)"><img src="https://skillicons.dev/icons?i=linux" style="width: 48px;"></a>
+<a href="https://www.gnu.org/gnu/linux-and-gnu.html" title="GNU/Linux"><img src="https://skillicons.dev/icons?i=linux" style="width: 48px;"></a>
 <a href="https://www.opensuse.org/" title="OpenSUSE"><img src="src/opensuse.png" style="width: 48px;"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" style="width: 48px;"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" style="width: 48px;"></a>
@@ -52,12 +52,12 @@ I've created dozens of applications and websites, with modern technologies such 
 
 
 ## API's
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-openai
-stripe
-paypal
+<a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" style="width: 48px;"></a>
+<a href="https://openai.com/" title="OpenAI"><img src="src/openai.png" style="width: 48px;"></a>
+<a href="https://stripe.com/" title="Stripe"><img src="src/stripe.png" style="width: 48px;"></a>
+<a href="https://paypal.com/" title="PayPal"><img src="src/paypal.png" style="width: 48px;"></a>
 
 
 ## Other
-notion
-make
+<a href="https://notion.so/product/" title="Notion"><img src="src/notion.png" style="width: 48px;"></a>
+<a href="https://www.make.com/en" title="Make"><img src="src/make.png" style="width: 48px;"></a>
