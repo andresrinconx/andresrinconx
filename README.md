@@ -33,6 +33,7 @@ I've created dozens of applications and websites, with modern technologies such 
 ## Mobile
 <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" style="width: 48px;"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://skillicons.dev/icons?i=react" style="width: 48px;"></a>
+<a href="https://expo.dev/" title="Expo Dev"><img src="src/expo.png" style="width: 48px;"></a>
 
 
 ## Backend
