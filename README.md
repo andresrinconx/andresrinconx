@@ -1,13 +1,11 @@
-# <div style="text-align: center; font-size: 4vh; font-weight: 600" align="center">Hello, I’m Andres Rincon 👋</div>
+# <div style="text-align: center; font-size: 4vh; font-weight: 600" align="center">Desarrollador full-stack, web y móvil</div>
 <img src="src/banner-github.jpg" style="width: 100%; max-height: 300px !important; object-fit: cover; height: 300px !important;" >
 
-### Full-stack dev, web and mobile developer
+Soy desarrollador full-stack y llevo creando sitios web y apps móviles desde 2022.   
 
-I'm a full-stack developer who has been creating websites and mobile apps since 2022.
+He creado decenas de aplicaciones y sitios webs, con tecnologías modernas como React, Next.js, React Native, Tailwind CSS, Node.js, Express, MongoDB, MySQL y una gran variedad API's.
 
-I've created dozens of applications and websites, with modern technologies such as React, Next.js, React Native, Tailwind CSS, Node.js, Express, MongoDB, MySQL and a wide variety of API's.
-
-# Technologies:
+# Tecnologías:
 
 
 ## Languages
