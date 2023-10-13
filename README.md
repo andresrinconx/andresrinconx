@@ -1,9 +1,9 @@
-# <div style="text-align: center; font-size: 4vh; font-weight: 600" align="center">Desarrollador full-stack, web y móvil</div>
+# <div style="text-align: center; font-size: 4vh; font-weight: 600" align="center">Desarrollador Full Stack, Web y Móvil</div>
 <img src="src/banner-github.jpg" style="width: 100%; max-height: 300px !important; object-fit: cover; height: 300px !important;" >
 
-Soy desarrollador full-stack y llevo creando sitios web y apps móviles desde 2022.   
+Soy desarrollador full stack y llevo creando sitios web y apps móviles desde 2022.   
 
-He creado decenas de aplicaciones y sitios webs, con tecnologías modernas como React, Next.js, React Native, Tailwind CSS, Node.js, Express, MongoDB, MySQL y una gran variedad API's.
+He creado decenas de aplicaciones móviles y sitios webs, con tecnologías modernas como React, Next.js, React Native, Tailwind CSS, Node.js, Express, MongoDB, MySQL y una gran variedad API's.
 
 # Tecnologías:
 
