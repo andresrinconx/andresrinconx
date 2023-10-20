@@ -11,7 +11,6 @@ He creado decenas de aplicaciones móviles y sitios webs, con tecnologías moder
 ## Languages
 <a href="https://developer.mozilla.org/en/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" style="width: 48px;"></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" style="width: 48px;"></a>
-<a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" style="width: 48px;"></a>
 <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash" style="width: 48px;"></a>
 
 
