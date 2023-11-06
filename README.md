@@ -1,4 +1,4 @@
-# <div style="text-align: center; font-size: 4vh; font-weight: 600" align="center">Desarrollador Full Stack, Web y Móvil</div>
+# <div style="text-align: center; font-size: 4vh; font-weight: 600" align="center">Desarrollador Full Stack</div>
 <img src="src/banner-github.jpg" style="width: 100%; max-height: 300px !important; object-fit: cover; height: 300px !important;" >
 
 Soy desarrollador full stack con experiencia en la creación de sitios web y apps móviles.
