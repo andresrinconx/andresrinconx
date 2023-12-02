@@ -3,7 +3,11 @@
 
 Soy desarrollador full stack con experiencia en la creación de sitios web y apps móviles.
 
-He creado decenas de aplicaciones móviles y sitios webs, con tecnologías modernas como React, Next.js, React Native, Tailwind CSS, Node.js, Express, MongoDB, MySQL y una gran variedad API's.
+He creado aplicaciones móviles y sitios webs con tecnologías como: 
+- React, Next.js, React Native, Tailwind CSS, Node.js, Express, MongoDB, MySQL y una gran variedad API's.
+
+Tengo experiencia trabajando en proyectos de:
+- Calendarios, e-commerce, autenticación, planificación de gastos, gestión de proyectos y tareas, gestión de viajes, chats, entre muchos otros.
 
 # Tecnologías:
 
